@@ -1,3 +1,9 @@
+# SQL основные команды
+
+Данный конспект сделан по видео Алексея Голобурдина
+🔥Разбираем SQL на примере PostgreSQL — SELECT, JOIN, GROUP, HAVING, Coalesce и др.
+https://www.youtube.com/watch?v=WpojDncIWOw
+
 ## install postgresql
 Установка 
 
@@ -18,10 +24,6 @@ psql postgres
 ```
 postgres=# \l
 ```
-
-
-Далее  в качестве примера приводится конспект по видео с youtube
-https://www.youtube.com/watch?v=WpojDncIWOw
 
 ### Create DB and requests example
 
