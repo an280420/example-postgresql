@@ -306,7 +306,7 @@ shop=# select pp.*, p.name from product_photo pp inner join product p on p.id = 
 ```
 
 Для запоминания приведем мнемоническую картинку для *join*
-![[join.jpg]]
+[join.ipg](https://github.com/an280420/example-postgresql/blob/master/images/join.jpg)
 
 #### Удаление и обновление данных
 Посмотрим еще раз нашу таблицу product_photo 
